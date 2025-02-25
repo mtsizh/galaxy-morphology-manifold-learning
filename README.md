@@ -22,6 +22,14 @@ This repository is organized as follows:
     <td>Contains precomputed embeddings for the best-scored method (LLE) and best-scored parameters</td>
   </tr>
   <tr>
+    <td>best_parameters/</td>
+    <td>Contains logs and embeddings for best parameters search with optuna</td>
+  </tr>
+  <tr>
+    <td>demos/</td>
+    <td>Contains demonstrations for 3D embeddings</td>
+  </tr> 
+  <tr>
     <td>petrosian_radii/</td>
     <td>Contains precomputed Petrosian radii</td>
   </tr>
