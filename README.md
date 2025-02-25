@@ -32,7 +32,11 @@ This repository is organized as follows:
   </tr>
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/calculate_petrofit_data.ipynb">calculate_petrofit_data.ipynb</a></td>
-    <td>Calculates Petrosian radii and calculates simple statistics.</td>
+    <td>Calculates Petrosian radii and simple statistics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/find_best_reduction_parameters.ipynb">find_best_reduction_parameters.ipynb</a></td>
+    <td>Searches for the best dimensionality reduction method and its parameters with the optuna library.</td>
   </tr>
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/morphology_classification.ipynb">morphology_classification.ipynb</a></td>
