@@ -12,7 +12,7 @@ This repository is organized as follows:
     <td>embeddings/</td>
     <td>Contains precomputed embeddings for the best-scored method (LLE) and best-scored parameters</td>
   </tr>
-  <th><tr><td colspan="2" style="font-weight: bold; text-align: center;">Files</td></tr></th>
+  <thead><tr><th colspan="2" style="font-weight: bold; text-align: center;">Files</th></tr></thead>
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/curate_dataset.ipynb">curate_dataset.ipynb</a></td>
     <td>Downloads the dataset, curates data (see article for details), and creates two archives with stored data. We recommend using Google Drive to copy these archives to. They can be later reused by other scripts in this repository. The smaller archive with cropped images can be dowloaded from this repository, but the larger one cannot be committed due to GitHub restrictions.</td>
