@@ -31,6 +31,10 @@ This repository is organized as follows:
     <td>Downloads the dataset, curates data (see article for details), and creates two archives with stored data. We recommend using Google Drive to copy these archives to. They can be later reused by other scripts in this repository. The smaller archive with cropped images can be dowloaded from this repository, but the larger one cannot be committed due to GitHub restrictions.</td>
   </tr>
   <tr>
+    <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/calculate_petrofit_data.ipynb">calculate_petrofit_data.ipynb</a></td>
+    <td>Calculates Petrosian radii and calculates simple statistics.</td>
+  </tr>
+  <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/morphology_classification.ipynb">morphology_classification.ipynb</a></td>
     <td>Performs dimensionality reduction with best-scored method and best-scored parameters. Additionaly there is an option to download precomputed data from the repository. Draws confusion matrices and provides statistics.</td>
   </tr>
