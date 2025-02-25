@@ -12,6 +12,10 @@ This repository is organized as follows:
     <td>embeddings/</td>
     <td>Contains precomputed embeddings for the best-scored method (LLE) and best-scored parameters</td>
   </tr>
+  <tr>
+    <td>petrosian_radii/</td>
+    <td>Contains precomputed Petrosian radii</td>
+  </tr>
   <thead><tr><th colspan="2" style="font-weight: bold; text-align: center;">Files</th></tr></thead>
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/curate_dataset.ipynb">curate_dataset.ipynb</a></td>
