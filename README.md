@@ -2,7 +2,18 @@
 Code for galaxy morphology classification using manifold learning data dimensionality reduction.
 This repository is organized as follows:
 
+https://mtsizh.github.io/galaxy-morphology-manifold-learning/demos/DECALS_galaxies_explorer.html
+
 <table>
+  <thead><tr><th colspan="2" style="font-weight: bold; text-align: center;">Demos</th></tr></thead>
+  <tr>
+    <td><a href="https://mtsizh.github.io/galaxy-morphology-manifold-learning/demos/DECALS_galaxies_explorer.html">DECALS Galaxies Explorer</a>/</td>
+    <td>Runs in browser (JS-based). Displays results of LLE for 3 dimensions. Move mouse over the point in the pointcloud to see the image of galaxy associated with the point.</td>
+  </tr>
+  <tr>
+    <td><a href="https://mtsizh.github.io/galaxy-morphology-manifold-learning/demos/generated_galaxies_explorer.html">Generated Galaxies Explorer</a>/</td>
+    <td>Runs in browser (JS-based). Displays results of LLE for 3 dimensions for generated galaxies (details in the article). Move mouse over the point in the pointcloud to see the generated image.</td>
+  </tr>
   <thead><tr><th colspan="2" style="font-weight: bold; text-align: center;">Folders</th></tr></thead>
   <tr>
     <td>curated_dataset/</td>
