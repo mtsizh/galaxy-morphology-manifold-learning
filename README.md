@@ -40,7 +40,7 @@ This repository is organized as follows:
   </tr>
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/calculate_petrofit_data.ipynb">calculate_petrofit_data.ipynb</a></td>
-    <td>Calculates Petrosian radii and simple statistics.</td>
+    <td>Calculates Petrosian radii and simple statistics. Draws overlay of ellipses with r_80 to demonstrate how they fit into 120x120 central square.</td>
   </tr>
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/find_best_reduction_parameters.ipynb">find_best_reduction_parameters.ipynb</a></td>
