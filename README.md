@@ -33,6 +33,10 @@ This repository is organized as follows:
     <td>petrosian_radii/</td>
     <td>Contains precomputed Petrosian radii</td>
   </tr>
+  <tr>
+    <td>pretrained_models/</td>
+    <td>Contains pretrained models for all 3 cases of classification involving 2 different models: Convolutional Neural Network and Multilayer Perceptron.</td>
+  </tr>
   <thead><tr><th colspan="2" style="font-weight: bold; text-align: center;">Files</th></tr></thead>
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/curate_dataset.ipynb">curate_dataset.ipynb</a></td>
@@ -41,6 +45,10 @@ This repository is organized as follows:
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/calculate_petrofit_data.ipynb">calculate_petrofit_data.ipynb</a></td>
     <td>Calculates Petrosian radii and simple statistics. Draws overlay of ellipses with r_80 to demonstrate how they fit into the 120x120 central square.</td>
+  </tr>
+  <tr>
+    <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/nn_classification.ipynb">nn_classification.ipynb</a></td>
+    <td>Performs classification with two different neural networks: Convolutional Neural Network and Multilayer Perceptron.</td>
   </tr>
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/find_best_reduction_parameters.ipynb">find_best_reduction_parameters.ipynb</a></td>
