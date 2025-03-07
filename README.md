@@ -37,6 +37,10 @@ This repository is organized as follows:
     <td>pretrained_models/</td>
     <td>Contains pretrained models for all 3 cases of classification involving 2 different models: Convolutional Neural Network and Multilayer Perceptron.</td>
   </tr>
+  <tr>
+    <td>k_means/</td>
+    <td>Contains dump of different scores for clustering quality estimation. Scores included: Davies-Bouldin Score, Dunn Score, Elbow Score, Silhouette Score</td>
+  </tr>
   <thead><tr><th colspan="2" style="font-weight: bold; text-align: center;">Files</th></tr></thead>
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/curate_dataset.ipynb">curate_dataset.ipynb</a></td>
@@ -57,6 +61,10 @@ This repository is organized as follows:
   <tr>
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/morphology_classification.ipynb">morphology_classification.ipynb</a></td>
     <td>Performs dimensionality reduction with best-scored method and best-scored parameters. Additionaly there is an option to download precomputed data from the repository. Draws confusion matrices and provides statistics.</td>
+  </tr>
+  <tr>
+    <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/clustering.ipynb">clustering.ipynb</a></td>
+    <td>Performs k-Means clusterization on LLE-embedded data. Different scores are computed (Davies-Bouldin Score, Dunn Score, Elbow Score, Silhouette Score) and plotted.</td>
   </tr>
 </table>
 
