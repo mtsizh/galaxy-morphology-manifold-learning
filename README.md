@@ -70,6 +70,11 @@ This repository is organized as follows:
     <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/decals_3d_embedding.ipynb">decals_3d_embedding.ipynb</a></td>
     <td>Performs 3D embedding for galaxy images. Same pipeline was used to produce data for JS demos.</td>
   </tr>
+  <tr>
+    <td><a href="https://colab.research.google.com/github/mtsizh/galaxy-morphology-manifold-learning/blob/master/synthetic_3d_embedding.ipynb">synthetic_3d_embedding.ipynb</a></td>
+    <td>Performs 3D embedding for synthetic images. Same pipeline was used to produce data for JS demos.</td>
+  </tr>
 </table>
+
 
 
